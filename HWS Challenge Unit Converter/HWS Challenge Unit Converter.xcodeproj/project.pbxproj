@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		96D68FDB2A707EF3003DDE1C /* HWS Challenge Unit Converter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HWS Challenge Unit Converter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D68FDE2A707EF3003DDE1C /* HWS_Challenge_Unit_ConverterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_Challenge_Unit_ConverterApp.swift; sourceTree = "<group>"; };
-		96D68FE02A707EF3003DDE1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		96D68FE02A707EF3003DDE1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "HWS Challenge Unit Converter/ContentView.swift"; sourceTree = SOURCE_ROOT; };
 		96D68FE22A707EF5003DDE1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96D68FE52A707EF5003DDE1C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
